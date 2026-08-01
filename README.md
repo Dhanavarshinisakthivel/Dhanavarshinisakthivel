@@ -1,5 +1,3 @@
-# S_DhanaVarshini
-
 # Hi 👋, I'm Dhanavarshini S
 
 ## ☕ Java Developer | Spring Boot Enthusiast
