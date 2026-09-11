@@ -132,42 +132,21 @@ I continuously strengthen my problem-solving and analytical skills by practicing
 * 🎯 Problem Analysis & Efficient Solutions
 
 
-# 📊 GitHub Statistics
-
-![Dhanavarshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanavarshinisakthivel&show_icons=true&theme=tokyonight)
-
-
-## 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhanavarshinisakthivel&theme=tokyonight)
-
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanavarshinisakthivel&layout=compact&theme=tokyonight)
-
----
 
 # 🏆 Achievements
 
-✨ Completed Infosys Virtual Internship  
-✨ Completed Web Development Internship at CodSoft  
-✨ Solved DSA problems on LeetCode & GeeksForGeeks  
-✨ Built multiple Spring Boot based applications  
+✨ Completed a virtual internship with Infosys
+✨ Completed a Web Development Internship at CodSoft
+✨ Strengthened problem-solving skills by solving DSA problems on LeetCode & GeeksForGeeks
+✨ Designed and developed multiple applications using Spring Boot
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/dhanavarshini-s/
+💼 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/dhanavarshini-s/)
+🌐 **Portfolio** | [Explore my portfolio](https://dhanavarshini-s.netlify.app/)
+💻 **GitHub** | [View my projects](https://github.com/Dhanavarshinisakthivel)
 
-🌐 Portfolio:
-https://dhanavarshini-portfolio.netlify.app/
-
-💻 GitHub:
-https://github.com/Dhanavarshinisakthivel
-
----
 
 ⭐ "Code. Learn. Build. Improve."
