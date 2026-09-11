@@ -123,12 +123,14 @@ Java | Spring Boot | Docker | MySQL | AI APIs
 
 # 🧠 Problem Solving
 
-- Data Structures & Algorithms
-- LeetCode Practice
-- GeeksForGeeks Practice
-- Algorithm Optimization
+I continuously strengthen my problem-solving and analytical skills by practicing programming challenges and developing efficient solutions.
 
----
+* 💡 Data Structures & Algorithms
+* 🧩 Logical Problem Solving
+* ⚡ Algorithm Optimization
+* 💻 Coding Challenge Practice
+* 🎯 Problem Analysis & Efficient Solutions
+
 
 # 📊 GitHub Statistics
 
