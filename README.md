@@ -2,112 +2,124 @@
 
 ## ☕ Java Developer | Spring Boot Enthusiast
 
-Computer Science graduate passionate about building scalable backend applications,  
-designing REST APIs, and solving real-world problems using Java and Spring Boot.
-
-I enjoy learning new technologies, improving my problem-solving skills, and building projects that create meaningful impact.
+Final-year Computer Science Engineering student with strong knowledge of Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, and backend development. Skilled in problem-solving and software development, with hands-on experience in building applications using Java and Spring Boot. Passionate about learning new technologies and developing scalable, user-focused solutions to real-world problems.
 
 # 💻 Tech Stack
 
 ### 👩‍💻 Languages
-☕ Java  
-🐍 Python 
+
+☕ Java
+🔵 C
 🌎 HTML
-🎨 CSS 
-🌐 JavaScript  
-🗄 SQL  
-  
- ### 🚀 Backend Technologies
-- Spring Boot
-- Spring MVC
-- REST APIs
-- Hibernate / JPA
-- JWT Authentication
-- Maven
+🎨 CSS
+🌐 JavaScript
+🗄️ SQL
+
+### 🚀 Backend Technologies
+
+* Spring Boot
+* Spring MVC
+* REST APIs
+* Hibernate / JPA
+* JWT Authentication
 
 ### 🗄 Database
-- MySQL
+
+* MySQL
 
 ### 🛠 Tools & Platforms
-- Git & GitHub
-- Postman
-- Docker
-- VS Code
-- IntelliJ IDEA
 
----
+* Git & GitHub
+* Docker
+* VS Code
+* IntelliJ IDEA
 
 # 🚀 Featured Projects
 
-
-## 🤖 AI Code Review Agent
-
-An AI-powered code analysis platform that reviews source code, identifies potential issues, and provides intelligent improvement suggestions.
-
-### Features:
-- AI-based code analysis
-- Code quality suggestions
-- Backend API integration
-- Docker-based deployment
-
-**Tech Stack:**
-
-Java | Spring Boot | Docker | MySQL | AI APIs
-
-
----
-
-## 🚨 Women Safety Smart Application
-
-A smart safety platform designed to provide emergency assistance, incident reporting, and AI-powered support.
-
-### Features:
-- User authentication with JWT
-- Emergency contact management
-- One-tap SOS alert
-- Incident reporting
-- AI chatbot assistance
-- Risk prediction
-
-**Tech Stack:**
-
-Java | Spring Boot | MySQL | HTML | CSS | JavaScript | Google Gemini AI
-
-
----
-
 ## 🌱 Gamified Environmental Education Platform
 
-A learning platform that encourages environmental awareness through interactive and engaging activities.
+A Spring Boot-based web application designed to promote environmental awareness through gamified learning, interactive activities, and reward-based engagement. The platform enables users to participate in environmental challenges, track their progress, and develop greater awareness of sustainable practices.
+
+**TextArt:**
+
+```text
+╔══════════════════════════════════════════════╗
+║       🌱 GAMIFIED ENVIRONMENTAL EDUCATION    ║
+║                                              ║
+║   Learn → Play → Complete Challenges → Earn   ║
+║                    Rewards                   ║
+╚══════════════════════════════════════════════╝
+```
 
 ### Features:
-- Gamified learning modules
-- Environmental challenges
-- User progress tracking
-- Reward-based learning
+
+* Gamified learning modules
+* Environmental challenges
+* User progress tracking
+* Reward-based learning
 
 **Tech Stack:**
 
 Java | Spring Boot | MySQL | HTML | CSS | JavaScript
 
-
 ---
 
 ## 🔐 Certificate Verification System using Blockchain
 
-A secure platform for verifying certificates using blockchain technology.
+A secure certificate verification system that uses blockchain technology to maintain the integrity and authenticity of digital certificates. The system provides a reliable and transparent approach to certificate validation while reducing the risk of unauthorized modification or forgery.
+
+**TextArt:**
+
+```text
+╔══════════════════════════════════════════════╗
+║        🔐 CERTIFICATE VERIFICATION           ║
+║                                              ║
+║   Certificate → Blockchain → Verification    ║
+║                                              ║
+║        ✓ Secure   ✓ Authentic   ✓ Trusted    ║
+╚══════════════════════════════════════════════╝
+```
 
 ### Features:
-- Tamper-proof certificate verification
-- Secure record storage
-- Transparent validation process
+
+* Tamper-resistant certificate records
+* Secure certificate verification
+* Transparent validation process
+* Blockchain-based data integrity
 
 **Tech Stack:**
 
 Java | Blockchain | Spring Boot | MySQL
 
-
 ---
+
+## 🤖 AI Code Review Agent
+
+An AI-powered code analysis platform designed to review source code, identify potential issues, and provide intelligent suggestions for improving code quality, readability, and maintainability. The application integrates AI capabilities with a backend service to support automated and efficient code analysis.
+
+**TextArt:**
+
+```text
+╔══════════════════════════════════════════════╗
+║             🤖 AI CODE REVIEW AGENT          ║
+║                                              ║
+║   Source Code → AI Analysis → Suggestions    ║
+║                                              ║
+║       ✓ Analyze   ✓ Detect   ✓ Improve       ║
+╚══════════════════════════════════════════════╝
+```
+
+### Features:
+
+* AI-powered code analysis
+* Code quality and improvement suggestions
+* Backend API integration
+* Docker-based deployment
+
+**Tech Stack:**
+
+Java | Spring Boot | Docker | MySQL | AI APIs
+
 
 # 🧠 Problem Solving
 
